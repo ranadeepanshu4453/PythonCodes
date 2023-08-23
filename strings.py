@@ -1,0 +1,13 @@
+name="chauhan"
+#print(name[0:10])
+# print(len(name))
+# print(name[10:len(name)])
+# print(name.rstrip("!"))
+# print(name.replace("chauhan","Rana"))
+# print(name.split(" "))
+# print(name.capitalize())
+# print(name.center(50))
+# print(name.count('chauhan'))
+# print(name.endswith("chauhan"))
+# print(name.find("?"))
+print(name.isalnum())
